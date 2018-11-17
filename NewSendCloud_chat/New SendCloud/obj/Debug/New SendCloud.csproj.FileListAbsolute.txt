@@ -1,0 +1,27 @@
+c:\users\itsc\documents\visual studio 2013\Projects\New SendCloud\New SendCloud\bin\Debug\New SendCloud.exe.config
+C:\Users\ITSC\documents\visual studio 2013\Projects\New SendCloud\New SendCloud\obj\Debug\New SendCloud.csprojResolveAssemblyReference.cache
+C:\Users\ITSC\documents\visual studio 2013\Projects\New SendCloud\New SendCloud\obj\Debug\New_SendCloud.Form1.resources
+C:\Users\ITSC\documents\visual studio 2013\Projects\New SendCloud\New SendCloud\obj\Debug\New_SendCloud.Properties.Resources.resources
+C:\Users\ITSC\documents\visual studio 2013\Projects\New SendCloud\New SendCloud\obj\Debug\New SendCloud.csproj.GenerateResource.Cache
+C:\Users\ITSC\documents\visual studio 2013\Projects\New SendCloud\New SendCloud\bin\Debug\New SendCloud.exe
+C:\Users\ITSC\documents\visual studio 2013\Projects\New SendCloud\New SendCloud\bin\Debug\New SendCloud.pdb
+C:\Users\ITSC\documents\visual studio 2013\Projects\New SendCloud\New SendCloud\obj\Debug\New SendCloud.exe
+C:\Users\ITSC\documents\visual studio 2013\Projects\New SendCloud\New SendCloud\obj\Debug\New SendCloud.pdb
+K:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\bin\Debug\New SendCloud.exe.config
+K:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\obj\Debug\New SendCloud.exe
+K:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\obj\Debug\New SendCloud.pdb
+K:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\bin\Debug\New SendCloud.exe
+K:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\bin\Debug\New SendCloud.pdb
+K:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\obj\Debug\New SendCloud.csprojResolveAssemblyReference.cache
+K:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\obj\Debug\New_SendCloud.Form1.resources
+K:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\obj\Debug\New_SendCloud.Properties.Resources.resources
+K:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\obj\Debug\New SendCloud.csproj.GenerateResource.Cache
+D:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\bin\Debug\New SendCloud.exe.config
+D:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\obj\Debug\New SendCloud.exe
+D:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\obj\Debug\New SendCloud.pdb
+D:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\obj\Debug\New SendCloud.csprojResolveAssemblyReference.cache
+D:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\obj\Debug\New_SendCloud.Form1.resources
+D:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\obj\Debug\New_SendCloud.Properties.Resources.resources
+D:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\obj\Debug\New SendCloud.csproj.GenerateResource.Cache
+D:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\bin\Debug\New SendCloud.exe
+D:\개발관련\개발프로그램, 일지\New SendCloud & SimpleMemo (프로그램)\NEW SendCloud Program\New SendCloud (Chat)\New SendCloud\bin\Debug\New SendCloud.pdb
